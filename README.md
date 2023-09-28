@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechTonia
-- 👀 I’m interested in all things tech related.
+- 👀 I’m interested in all things tech-related.
 - 🌱 I’m currently learning Git!
-- 📫 How to reach me info@techlouisville.org
+- 📫 How to reach me tonia@codelouisville.org
 
 
 <!---
